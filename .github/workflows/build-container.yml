@@ -29,6 +29,7 @@ jobs:
       matrix:
         bazelisk_version:
           - "1.17.0" 
+          - "1.18.0"
         tag:
           - "18.04"
           - "20.04"
